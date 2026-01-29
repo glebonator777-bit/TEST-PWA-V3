@@ -1,0 +1,10 @@
+{
+  "name": "2K Казино",
+  "short_name": "2K",
+  "description": "Азартная игра с возможностью выигрыша",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117"
+}
